@@ -38,7 +38,7 @@ Built by [jriff](https://jriffs.github.io/).
 Previous Solana projects:
 - **SolScope** – Solana wallet explorer
 - **Drip Token** – Production-quality simple SPL token faucet on Devnet
-Participant in the MLH 100 Days of Solana challenge (≈70% completion + competitions).
+- Participant in the MLH 100 Days of Solana challenge (+ competitions).
 ---
 ## License
 MIT
